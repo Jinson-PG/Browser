@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881844550717",
+    "project_id": "care-browser",
+    "storage_bucket": "care-browser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881844550717:android:6cf1a322a3152768f2be54",
+        "android_client_info": {
+          "package_name": "com.android.care_browser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881844550717-rcc3edd72a1bdopjgfmpcvshtugb09o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAncIPZLne7w5KRW4MT0P-qQOuvQom2pmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881844550717-rcc3edd72a1bdopjgfmpcvshtugb09o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
